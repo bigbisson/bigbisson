@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Indra - aka [bigbisson](https://bigbisson.github.io/Personal-Portofolio/)
+### Hi there 👋, I'm Indra - aka [bigbisson](https://indranw.herokuapp.com)
 
 ## I'm Indra Nurwibisono,
 
