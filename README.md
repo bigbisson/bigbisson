@@ -71,7 +71,7 @@ _NOTE: Most Used languages does not indicate my skill level or something like th
 [youtube]: https://www.youtube.com/channel/UCnoeHiOEtvEY-l841vqBRGA
 [codepen]: https://codepen.io/bigbisson
 [repl]: https://repl.it/@bigbisson
-[resume]: https://drive.google.com/file/d/1BUT0HuaGnOkRCHZb2hq7npt75Btnx01r/view?usp=sharing
+[resume]: https://drive.google.com/file/d/1QS5ikfUfg2E7lC-RR5slpaIdHGYmSi3Z/view?usp=sharing
 [certificate]: https://drive.google.com/drive/folders/15lD6647HgE1cB6lNAxEcWbwi3AjPhq6I?usp=sharing
 
 <!--
