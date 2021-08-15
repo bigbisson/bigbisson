@@ -2,7 +2,7 @@
 
 ## I'm Indra Nurwibisono,
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/big_bisson?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbigbisson&screen_name=big_bisson)
+[![Twitter Follow](https://img.shields.io/twitter/follow/blank_sda?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblank_sda&screen_name=blank_sda)
 
 ### a self-taught <b>Data Engineer</b>, <b>Web Developer</b>, and currently looking for challenge (alias a <b>Job</b>).
 
@@ -66,7 +66,7 @@ _NOTE: Most Used languages does not indicate my skill level or something like th
 </details>
 
 [linkedin]: https://www.linkedin.com/in/indranw/
-[twitter]: https://twitter.com/Big_Bisson
+[twitter]: https://twitter.com/blank_sda
 [twitch]: https://www.twitch.tv/blank_sda
 [youtube]: https://www.youtube.com/channel/UCnoeHiOEtvEY-l841vqBRGA
 [codepen]: https://codepen.io/bigbisson
