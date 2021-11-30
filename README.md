@@ -6,7 +6,7 @@
 
 ### a self-taught <b>Data Engineer</b>, <b>Web Developer</b>, and currently looking for challenge (alias a <b>Job</b>).
 
-- 🔭 I’m currently working on [Finishing Personal-Portofolio](https://github.com/bigbisson/Personal-Portofolio)
+- 🔭 I’m currently working on [Finishing Personal Portofolio](https://github.com/bigbisson/portfolio)
 - 🌱 I’m currently learning [Django](https://www.djangoproject.com)
 - 👯 I’m looking to collaborate on Open Source Project
 - 🤔 I’m looking for help with Job seeking
