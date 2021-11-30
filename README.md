@@ -26,7 +26,6 @@
 [<img align="left" alt="blank_sda| Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="blank_sda | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="bigbisson | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />][codepen]
-[<img align="left" alt="bigbisson | Repl" width="22px" src="https://pbs.twimg.com/profile_images/1267239863692046338/s-Yxs6G8_400x400.jpg" />][repl]
 
 <br />
 
