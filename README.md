@@ -4,7 +4,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/blank_sda?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblank_sda&screen_name=blank_sda)
 
-### a self-taught <b>Data Engineer</b>, <b>Web Developer</b>, and currently looking for challenge (alias a <b>Job</b>).
+### a self-taught <b>Data Engineer</b>, <b>Web Developer</b>, and currently a Software Developer.
 
 - 🔭 I’m currently working on [Finishing Personal Portofolio](https://github.com/bigbisson/portfolio3)
 - 🌱 I’m currently learning [Django](https://www.djangoproject.com)
