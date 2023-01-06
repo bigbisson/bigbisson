@@ -2,7 +2,7 @@
 
 ## I'm Indra Nurwibisono,
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/blank_sda?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblank_sda&screen_name=blank_sda)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/blank_sda?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblank_sda&screen_name=blank_sda) -->
 
 ### a self-taught <b>Data Engineer</b>, <b>Web Developer</b>, and currently a Junior Software Developer.
 
