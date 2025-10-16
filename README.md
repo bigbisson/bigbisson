@@ -6,8 +6,8 @@
 
 ### a self-taught <b>Data Engineer</b>, <b>Web Developer</b>, and currently a Junior Software Developer.
 
-- 💻 I’m currently working on [PT. Bank Sinarmas](https://www.banksinarmas.com).
-- 🌱 I’m currently learning [Angular](https://angular.io/).
+- 💻 I’m currently on Open Opportunity.
+- 🌱 I’m currently learning [Go](https://go.dev/).
 - 👯 I’m looking to collaborate on Open Source Project.
 - 🤔 I’m looking for more knowledge.
 - 💬 Ask me about anything [here](https://github.com/bigbisson/bigbisson/issues).
