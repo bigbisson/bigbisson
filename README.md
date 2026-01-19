@@ -47,17 +47,7 @@
 &nbsp;
 <details>
 <summary>:zap: GitHub Stats</summary>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=bigbisson&show_icons=true&include_all_commits=true&theme=material" alt="Anurag's github stats" />
-</a>
-
-<br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bigbisson&layout=compact&theme=material" />
-</a> -->
-
+  
 [![Bigbisson's GitHub stats](https://github-readme-stats.vercel.app/api?username=bigbisson)](https://github.com/anuraghazra/github-readme-stats)
 
 _NOTE: Most Used languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
