@@ -1,6 +1,7 @@
 ### Hi there <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif">, I'm Indra - aka bisson<!-- (https://indranw.herokuapp.com) -->
 
-## I'm Indra Nurwibisono, [![Available for Work](https://available.dev/api/badge/bigbisson)](https://available.dev/bigbisson)
+## I'm Indra Nurwibisono
+[![Available for Work](https://available.dev/api/badge/bigbisson)](https://available.dev/bigbisson)
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/blank_sda?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fblank_sda&screen_name=blank_sda) -->
 
